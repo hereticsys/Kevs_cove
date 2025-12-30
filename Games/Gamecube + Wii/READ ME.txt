@@ -1,0 +1,16 @@
+To emulate Gamecube + Wii games
+
+1. Download the Dolphin zip file 
+2. Extract the Dolphin folder
+3. Download the ROM(S) of your choice
+4. Open the Dolphin program
+5. File > Open > Rom.RVZ
+
+To save at any point, go Emulation > Save State > 
+
+To edit your controls, go Options > Controller Settings
+
+To enable cheats, go Options > Configuration > Enable cheats
+
+This project uses the Dolphin Emulator. This should work with all the provided roms as-is, but feel free to check out Dolphin and update to the latest version here:
+https://dolphin-emu.org
