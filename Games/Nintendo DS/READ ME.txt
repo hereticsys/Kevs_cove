@@ -1,0 +1,8 @@
+How to emulate DS games:
+
+1. Download the MelonDS application
+2. Download the ROMs zip files that you want to play
+3. Open MelonDS
+4. In the program, open the zip of your rom
+
+Enjoy! :D
