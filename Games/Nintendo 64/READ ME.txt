@@ -1,0 +1,13 @@
+Nintendo 64 emulation
+
+To run the Nintendo 64 ROMS offered here, simply do the following: 
+
+1. Download the Project 64 application file. Follow the installer.
+2. Download the ROM(S) of your choice. 
+3. Open Project 64
+4. File > Open ROM > ROM.Z64
+
+To edit your controls, go to Options > Input settings
+
+This project uses Project 64. Find out more about them here:
+https://www.pj64-emu.com
