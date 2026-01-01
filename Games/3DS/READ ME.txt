@@ -1,0 +1,9 @@
+To emulate 3DS games:
+
+Download the Citra Nightly zip
+unzip it
+download your ROMs
+open the citra-qt application
+open > ROMs
+
+Citra is no longer available anymore- But it should be working.
